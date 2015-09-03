@@ -17,7 +17,7 @@ let g:ycm_global_ycm_extra_conf = "/home/george/.vim/bundle/YouCompleteMe/third_
 
 
 
-"Indent and closing quotes"
+"Indent and closing quotes -- where the setup is installed"
 so /home/george/vim-good/delimitMate-master/test/_setup.vim
 let delimitMMate_expand_cr = 1
 filetype indent on
@@ -27,5 +27,3 @@ map <F8> :!g++ % && ./a.out<CR>
 
 "Format options for vim -- autocomment"
 :set formatoptions+=r
-
-"Auto headers"
