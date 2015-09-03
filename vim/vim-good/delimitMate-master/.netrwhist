@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/george/.vim'
+let g:netrw_dirhist_2='/home/george/.local/share/gnome-shell/extensions/caffeine@patapon.info'
+let g:netrw_dirhist_3='/home/george/gnome-shell-extension-caffeine'
+let g:netrw_dirhist_4='/home/george/.local/share/gnome-shell/extensions'
+let g:netrw_dirhist_5='/home/george/lock-monitor@fmuellner.gnome.org'
+let g:netrw_dirhist_6='/etc/dbus-1/system.d'
+let g:netrw_dirhist_7='/home/george/.local/share/gnome-shell/extensions/usb-inhibitor/schemas'
+let g:netrw_dirhist_8='/home/george/.vim'
